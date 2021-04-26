@@ -1,3 +1,5 @@
-for (i=4; i=-4; i-1.5){
+var i = 4
+while(i <= -4) {
     console.log(i)
+    i-=1.5
 }
